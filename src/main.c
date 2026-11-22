@@ -1,9 +1,4 @@
 #include "game.h"
-#include "raylib.h"
-#include <stdio.h>
-#include <time.h>
-#include <stdbool.h>
-
 
 int main(void) {
     SetRandomSeed(0);
